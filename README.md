@@ -15,7 +15,7 @@ Simply copy the contents of your ```FM_API_for_PHP_Standalone.zip``` into the sr
 Basic usage example:
 
 ```php
-		public function FM(){
+		public function some_method(){
 			$this->load->add_package_path(APPPATH.'third_party/FileMaker/');
 			$this->load->library('fm', array(
 				'host' => 'host.filemaker.example',
