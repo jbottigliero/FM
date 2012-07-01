@@ -1,0 +1,1 @@
+## Place the contents of your ```FM_API_for_PHP_Standalone.zip``` in this folder! For more information see [FileMaker Documentation](http://help.filemaker.com/app/answers/detail/a_id/6531/)
