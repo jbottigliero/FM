@@ -16,7 +16,7 @@ Basic usage example:
 
 ```php
 		public function some_method(){
-			$this->load->add_package_path(APPPATH.'third_party/FileMaker/');
+			$this->load->add_package_path(APPPATH.'third_party/FM/');
 			$this->load->library('fm', array(
 				'host' => 'host.filemaker.example',
 				'database' => 'exampleDB',
